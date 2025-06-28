@@ -1,1 +1,1 @@
-
+Hello and a very warm welcome to my QISKIT repository. Here I am going to share codes that would be helpful for many students, professionals from any background who wants to get their heads around Qiskit Coding. Many of the codes - online - uses Qiskit verion 01, which is old now. The main aim is to revamp all such codes according to latest version of Qiskit. 
